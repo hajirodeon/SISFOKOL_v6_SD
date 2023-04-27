@@ -6,4 +6,4 @@ SISFOKOL_v6_SD (SIStem inFOrmasi seKOLah untuk SD)
 
 NB. 
 
-Masih dalam pengembangan. Menuju Rilis : Menjelang Lebaran 2023 ini.
+Masih dalam pengembangan. Menuju Rilis : Awal Mei 2023 ini.
